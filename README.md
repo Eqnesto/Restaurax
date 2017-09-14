@@ -1,2 +1,0 @@
-# Restaurax
-Food delivery.
